@@ -93,3 +93,5 @@ C:\Users\JustIceQAQ\source\repos\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\A
 C:\Users\JustIceQAQ\source\repos\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\obj\Debug\Asp.Net-LabAndDemoLine.csproj.CopyComplete
 C:\Users\JustIceQAQ\source\repos\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\obj\Debug\Asp.Net-LabAndDemoLine.dll
 C:\Users\JustIceQAQ\source\repos\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\obj\Debug\Asp.Net-LabAndDemoLine.pdb
+C:\Users\JustIceQAQ\source\repos\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\bin\x86\sqlite3.dll
+C:\Users\JustIceQAQ\source\repos\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\Asp.Net-LabAndDemoLine\bin\x64\sqlite3.dll
